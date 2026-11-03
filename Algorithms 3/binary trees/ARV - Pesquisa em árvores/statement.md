@@ -1,4 +1,4 @@
-# Árvore Binária
+# ARV - Pesquisa em árvores
 
 Faça um programa que leia **N** números inteiros e os insira em uma árvore binária.
 Depois o programa deve ler um outro número **X** e verificar se o mesmo está ou não na árvore.
