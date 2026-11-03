@@ -1,5 +1,7 @@
 # 💻 Solutions for Algorithm Questions
 
+<img width="320" height="180" alt="Image" src="https://github.com/user-attachments/assets/0d580ff3-7b33-41a0-b3fb-76404e12a5c7" />
+
 A repository dedicated to solving programming exercises and algorithmic problems throughout my **Software Engineering studies at INATEL**.
 
 The main goal is to practice programming logic, improve problem-solving skills, and deepen my knowledge of data structures and algorithms.
