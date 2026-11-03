@@ -14,10 +14,9 @@ Exercises are organized by subjects and topics, including:
 - **Data Structures:** binary trees, linked lists, and other structures.
 - **C++ Programming:** implementation and application of programming concepts.
 
-## 🛠️ Technologies
+## 🛠️ Languages
 
-- C++
-- Git and GitHub
+- C++ (Just for Now)
 
 ## 🎯 Goals
 
